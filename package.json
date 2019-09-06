@@ -1,0 +1,21 @@
+{
+  "name": "mission-teeka",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashray",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11",
+    "multer": "^1.4.2",
+    "nexmo": "^2.4.1",
+    "node": "^12.9.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  }
+}
